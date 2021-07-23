@@ -47,7 +47,7 @@ const Layout = ({children}) => {
     ],
   }
 
-	return (
+  return (
     <>
       <MaterialUINav
         global={{
@@ -86,6 +86,7 @@ const Layout = ({children}) => {
 ---| --- | --- | --- | ---
 |```color```|Background color of the navbar|```string```|"primary", "secondary", "transparent"|"primary"
 |```fixed```|Fix the navbar to the top of the screen|```boolean```|N/A|true
+|```appBarProps```|Pass props to the AppBar component|```object```|N/A|null
 |```transparentAtTop```|Make the background of the navbar transparent if at the top of the page. |```boolean```|N/A|false
 |```elevate```|Show a box shadow|```boolean```|N/A|true
 |```shrinkOnScrollDown```|Shrink the height of the navbar if not at the top of the page|```boolean```|N/A|true
