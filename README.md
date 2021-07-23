@@ -1,5 +1,4 @@
 # material-ui-responsive-nav
----
 An easy-to-use component that allows you to add responsive navigation with minimum fuss.
 
 ## Install

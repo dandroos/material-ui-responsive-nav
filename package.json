@@ -1,6 +1,6 @@
 {
   "name": "material-ui-responsive-nav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy-to-use component that allows you to add responsive navigation with minimum fuss",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -45,5 +45,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dandroos/material-ui-responsive-nav.git"
-  }
+  },
+  "keywords": [
+    "material",
+    "navbar",
+    "react",
+    "navigation",
+    "responsive"
+  ]
 }
